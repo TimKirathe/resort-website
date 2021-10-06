@@ -1,4 +1,32 @@
 body {
-  background-color: white;
+  background-color: #f5f5dc;
   font-family: sans-serif;
+}
+h1 {
+  text-align: center;
+  font-family: cursive;
+}
+h5 {
+  font-style: italic;
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+p.para1 {
+  text-align: center;
+  color: green;
+  font-style: italic;
+}
+p.para2 {
+  text-align: center;
+  color: : green;
+  font-style: italic;
+}
+ul {
+  font-style: bold;
+  font-family: Times New Roman, serif;
+}
+h2 {
+  text-align: center;
 }
